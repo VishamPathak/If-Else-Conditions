@@ -40,3 +40,11 @@ if(is_Sleepy == True):
 if(is_Sleepy == False):
   print("Wow, you are well rested")
 
+# Ask the user for a number
+# Tell the user if their number is even or odd
+
+y = int(input("Tell me a number: "))
+if (y % 2 != 0):
+  print("Your number is odd!")
+else:
+  print("Your number is even!")

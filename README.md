@@ -74,3 +74,18 @@ else:
 
 ```
  > x and y must be equal 
+
+## Order of Operations
+
+1. () Parenthesis
+2. ** Exponent
+3. -a, +a Negative, positive arguments
+4. *, /, //, % Multiplication, division, quotient, Modulus
+5. +, - Addition, subtraction
+6. <, >, <=, >=, ==, != Comparison Operators
+7. not Boolean Not
+8. not Boolean And
+9. or Boolean Or 
+
+a++ --> a = a + 1
+a-- --> a = a - 1
